@@ -9,9 +9,9 @@ My-profile
 
 <body bgcolor='#CC0033'>
 <h1 align="center">MY PROFILE</h1>
-<table width="403" height="161" align="center" >
+<table align="center" border="3">
 <tr>
-<td width="60">Name</td><td width="8"> : </td><td width="307">Mohamad Ezwan Bin Mohd Shahrin</td>
+<td>Name</td><td> : </td><td>Mohamad Ezwan Bin Mohd Shahrin</td>
 </tr>
 <tr>
 <td>IC No.</td><td> : </td><td>941227015915</td>
@@ -26,7 +26,7 @@ My-profile
 <td>E-mail</td><td> : </td><td>Ezwanshahrin@gmail.com</td>
 </tr>
 <tr>
-<td height="21">Education</td><td> : </td><td>Diploma in Computer Science(Multimedia)</td>
+<td>Education</td><td> : </td><td>Diploma in Computer Science(Multimedia)</td>
 </tr>
 
 </table>
